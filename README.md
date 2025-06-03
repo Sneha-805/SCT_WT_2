@@ -1,4 +1,4 @@
-# 🧠 Mall Customer Segmentation using K-Means Clustering
+# 🏬 Mall Customer Segmentation using K-Means Clustering
 
 This project performs **Customer Segmentation** using **K-Means Clustering** and visualizes it with an interactive **Streamlit web app**. You can explore how customer data can be grouped into segments for marketing or analysis purposes.
 
